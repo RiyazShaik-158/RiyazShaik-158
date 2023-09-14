@@ -1,6 +1,7 @@
 ### Hi there 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RiyazShaik-158&" alt="RiyazShaik" /></p>
-<h1>This is Shaik Mohammed Reyaz</h1>
+<h1>This is "Shaik Mohammed Reyaz"</h1>
+<p>Email : reyazshaikmohammed@gmail.com</p>
 <!--
 **RiyazShaik-158/RiyazShaik-158** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
